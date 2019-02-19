@@ -1,3 +1,4 @@
 testing on feb 19 2019
 Testing on Feb 19 Git practice
 added back the line from local
+Testing checkout
